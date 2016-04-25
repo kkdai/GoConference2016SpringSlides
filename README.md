@@ -23,6 +23,7 @@ A slides collection for [Go Conference 2016 Spring](http://gocon.connpass.com/ev
 - [GoImagick の詳解 by yoya](https://speakerdeck.com/yoya/goimagicksyokai)
 - Go言語の入門書を書いてみた話 by 松尾 愛賀
 - [Go & multi platform GUI Trials and Errors @Yoshiki Shibukawa](http://www.slideshare.net/shibukawa/go-multi-platform-gui-trials-and-errors)
+- [Goでデーモンを作ってみる by Hironobu Saitoh](https://speakerdeck.com/hironobu/godedemonwozuo-tutemiru)
 
 ## Blog & Note
 
