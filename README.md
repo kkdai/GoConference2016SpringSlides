@@ -2,7 +2,7 @@
 A slides collection for [Go Conference 2017 Autumn](https://gocon.connpass.com/event/66615/)
 
 ## Talk session and Slides
--[Go at DigitalOcean by @fatih](https://speakerdeck.com/farslan/go-at-digitalocean)
+- [Go at DigitalOcean by @fatih](https://speakerdeck.com/farslan/go-at-digitalocean)
 - Go + microservices at Mercari / @deeeet
 - 大規模で運用するためのモニタリングエージェントを自作する話 / huydx
 - Prometheusから考察するGoのロギング / 大和屋貴仁
